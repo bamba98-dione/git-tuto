@@ -1,0 +1,84 @@
+body{
+	margin: 0px;
+	padding: 0px;
+
+}
+#welcome, #services, #portfolio, #amaz{
+	text-align: center;
+}
+#welcome{
+     background-image: url("accueil.jpg");
+     background-repeat: no-repeat;
+     background-size: 100%;
+     color: white;
+     font-size: 200%;
+}
+#services,#portfolio{
+	font-size: 100%;
+
+}
+#service{
+	font-size: 70%;
+}
+#portfolio{
+	background-color: grey;
+}
+#portfo{
+	float: center;
+	font-size: 70%;
+}
+button{
+	color: white;
+	background-color: yellow;
+}
+.meetyou{
+	text-transform: uppercase;
+}
+
+ footer{
+ 	background-image: url("monde2.jpg");
+ 	background-repeat: no-repeat;
+ 	background-size: 100%;
+ 	
+ 	text-align: center;
+}
+.contact{
+	color: white;
+ }
+ .submit{
+ 	background-color: yellow;
+ }
+ #about{
+ 	text-align: center;
+ 	background-color: white;
+ }
+ #amaz{
+ 	background-color: white;
+ 	float: center;
+ 	padding: 15px;
+ 	font-size: 70%;
+
+ }
+}
+table,td,th{
+	margin: 0px;
+		text-align: center;
+
+}
+tr,th,td{
+	text-align: center;
+}
+td{
+	margin-left: 0px;
+	
+}
+img{
+	size: 15%;
+}
+
+/*#para{
+	float:  left;
+}
+#para1{
+	float: right;
+}
